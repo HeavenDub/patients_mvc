@@ -17,7 +17,7 @@
         <div class="card-header"> Liste des patients</div>
         <div class="card-body">
             <form method="get" th:action="@{/user/index}">
-                <label>key word</label>
+                <label>Mot-Cle</label>
                 <input type="text" name="keyword" th:value="${Keyword}" >
                 <button type="submit" class="btn btn-warning ">Chercher</button>
             </form>
