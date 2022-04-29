@@ -21,6 +21,20 @@ On commence par l'interface Spring Boot Security  qui permettra le login/logout
 NavBar D'un utilisateur normal
 ![image](https://user-images.githubusercontent.com/44275564/165291346-6e15f53c-6cb0-40d4-8042-7364c34057c0.png)
 
-Et ceci est l'interface patient d'un utilisateur normal, pas d'ajout et pas de modification.
+Et ceci est l'interface patient d'un utilisateur normal, pas d'ajout et pas de modification.Mais  , quand il s'agit de compte admin declaré auparavant,
+l'interface changeras en fonction et affichera ceci
+![image](https://user-images.githubusercontent.com/44275564/166076556-c6ac539d-3178-47b3-881a-f326d2381406.png)
+ Et vous pouvez y voir les bouttons de supression --->
+ ![image](https://user-images.githubusercontent.com/44275564/166076623-a8f2c5b4-aeee-4085-bf9c-0066707cca3c.png)
+
+ Avec une demande de verification de la supression 
+ ![image](https://user-images.githubusercontent.com/44275564/166076676-b906756b-d055-4307-917a-6686059ade1c.png)
+
+Mais pour l'edit voila le bouton: ![image](https://user-images.githubusercontent.com/44275564/166076739-a5280e4c-9007-4174-a3ec-5cfe8b3c4ffc.png)
+
+et apres le click :
+
+![image](https://user-images.githubusercontent.com/44275564/166076774-47a4b5cb-d331-425f-800d-302b668c2332.png)
+
 
 
