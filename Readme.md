@@ -14,8 +14,11 @@ Le but de l'application est de gerer les patients d'un soit disant hopital, tout
 afin de recevoir ces données sous fourmes de tableaux bien organisé , facilitant aux utilisateurs la vue de données.
 
 ![image](https://user-images.githubusercontent.com/44275564/165290965-6c671c62-2f20-47b3-962e-1215b42bc6f0.png)
+
 On commence par l'interface Spring Boot Security  qui permettra le login/logout
 ![image](https://user-images.githubusercontent.com/44275564/165291205-6d80e63e-ccb5-4a1f-9ef3-29b0c34bcf59.png)
+
 NavBar D'un utilisateur normal
-![image](https://user-images.githubusercontent.com/44275564/165291346-6e15f53c-6cb0-40d4-8042-7364c34057c0.png)
+![image](https://user-images.githubusercontent.com/44275564/165291346-6e15f53c-6cb0-40d4-8042-7364c34057c0.png
+
 Et ceci est l'interface patient d'un utilisateur normal, pas d'ajout et pas de modification.
